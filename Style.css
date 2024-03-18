@@ -46,14 +46,6 @@ header ul li a:hover {
   border-bottom: 0.2rem solid #011aff;
   padding: 0.5rem 0;
 }
-/* navbar ends */
-
-section{
-  min-height: 40vh;
-  padding: 2rem 9%;
-}
-
-
 
 ul{
     list-style:none;
@@ -62,7 +54,7 @@ ul{
     color: #ffffff;
 }
 ul li{
-    font-size:25px;
+    font-size:15px;
     display:inline-block;
     background-color:crimson ;
     border-radius: 2px;
@@ -78,10 +70,10 @@ ul li a{
     color:##ffffff;
 }
 
-img {
-    
+section{
+  min-height: 40vh;
+  padding: 2rem 9%;
 }
-
 
 
 /* social icons start */
