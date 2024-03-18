@@ -19,6 +19,7 @@ header{
   flex-direction: row;
   gap: 2rem;
   flex-wrap: wrap;
+  padding:2rem;
 }
 
 header ul {
